@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Beijing Traffic Restriction//Car Plate 6//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:北京限号｜尾号6
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:beijing-limit-6-20260929@chatgpt
+DTSTART;TZID=Asia/Shanghai:20260929T070000
+DTEND;TZID=Asia/Shanghai:20260929T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261013@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261013T070000
+DTEND;TZID=Asia/Shanghai:20261013T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261020@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261020T070000
+DTEND;TZID=Asia/Shanghai:20261020T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261027@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261027T070000
+DTEND;TZID=Asia/Shanghai:20261027T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261103@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261103T070000
+DTEND;TZID=Asia/Shanghai:20261103T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261110@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261110T070000
+DTEND;TZID=Asia/Shanghai:20261110T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261117@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261117T070000
+DTEND;TZID=Asia/Shanghai:20261117T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261124@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261124T070000
+DTEND;TZID=Asia/Shanghai:20261124T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261201@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261201T070000
+DTEND;TZID=Asia/Shanghai:20261201T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261208@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261208T070000
+DTEND;TZID=Asia/Shanghai:20261208T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261215@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261215T070000
+DTEND;TZID=Asia/Shanghai:20261215T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-limit-6-20261222@chatgpt
+DTSTART;TZID=Asia/Shanghai:20261222T070000
+DTEND;TZID=Asia/Shanghai:20261222T200000
+SUMMARY:🚗 北京限号｜尾号6
+DESCRIPTION:北京机动车尾号6限行。限行时间：07:00-20:00；范围：五环路以内道路（不含五环路）。如遇官方发布的节假日/特殊交通管理措施，以最新官方公告为准。
+LOCATION:北京市五环路以内（不含五环路）
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
